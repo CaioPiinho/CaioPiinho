@@ -1,6 +1,6 @@
 ### 👋 Eai, sou Caio José!
 
-Tenho experiência em projetos nas áreas de gaming e criação de conteúdo no YouTube, onde desenvolvi habilidades de forma autodidata, incluindo modificação de jogos por meio dos perfis [Sonic Space](https://Gitgub.com/SonicSpace) e [Green Speed Studio](https://Github.com/GreenSpeedBR).
+Tenho experiência em projetos nas áreas de gaming e criação de conteúdo no YouTube, onde desenvolvi habilidades de forma autodidata, incluindo modificação de jogos por meio dos perfis [Sonic Space](https://Github.com/SonicSpace) e [Green Speed Studio](https://Github.com/GreenSpeedBR)
 
 Possuo conhecimentos em informática e, mesmo sem formação técnica inicial, optei por seguir na área de tecnologia por meio da graduação. Tenho interesse em desenvolvimento Back-End e Front-End, buscando sempre evoluir, mesmo diante de desafios como lógica de programação.
 
